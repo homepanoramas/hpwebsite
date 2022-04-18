@@ -374,7 +374,7 @@ $("#send-mail").click(function () {
 });
 
 //Initialize google map for contact setion with your location.
-
+/*
 function initializeMap() {
 
     var lat = '39.0813603'; //Set your latitude.
@@ -409,3 +409,4 @@ function initializeMap() {
 
     infowindow.open(map, marker);
 }
+*/
