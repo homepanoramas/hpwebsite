@@ -121,22 +121,22 @@ h2 {
 }
 /* Sigma BG Colors --- BEGIN */
 .sigma-bg-lightgray {
-  /*background-color: #E4E8E8;*/
-  background-color:#1bd4fd ;
+  background-color: #E4E8E8;
+/*  background-color:#1bd4fd ;*/
 }
 .sigma-bg-gray {
-  /*background-color: #999;*/
-	background-color: #1abcfe;
+  background-color: #999;
+/*	background-color: #1abcfe;*/
   color: #FFF;
 }
 .sigma-bg-darkgray {
-  /*background-color: #666;*/
-	  background-color: #01a2e4;
+  background-color: #666;
+/*	  background-color: #01a2e4;*/
   color: #FFF;
 }
 .sigma-bg-black {
-  /*background-color: #444;*/
-	background-color: #0190cb;
+  background-color: #444;
+/*	background-color: #0190cb;*/
   color: #FFF;
 }
 .sigma-bg-blue {
