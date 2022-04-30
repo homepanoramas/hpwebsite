@@ -29,10 +29,10 @@ h2 {
   margin-bottom: 20px;
 }
 .site-title h1 {
-  color: #333;
+  color: #01a2e4;
 }
 .site-title h2 {
-  color: #888;
+  color: #01B4FD;
   font-size: 16px;
   padding-top: 20px;
 }
@@ -121,21 +121,17 @@ h2 {
 /* Sigma BG Colors --- BEGIN */
 .sigma-bg-lightgray {
   background-color: #E4E8E8;
-/*  background-color:#1bd4fd ;*/
 }
 .sigma-bg-gray {
   background-color: #999;
-/*	background-color: #1abcfe;*/
   color: #FFF;
 }
 .sigma-bg-darkgray {
   background-color: #666;
-/*	  background-color: #01a2e4;*/
   color: #FFF;
 }
 .sigma-bg-black {
   background-color: #444;
-/*	background-color: #0190cb;*/
   color: #FFF;
 }
 .sigma-bg-blue {
