@@ -123,11 +123,11 @@ h2 {
 /* Sigma BG Colors --- BEGIN */
 .sigma-bg-lightgray {
   background-color: #1abcfe;
-  color: #111;
+  color: #FFF;
 }
 .sigma-bg-gray {
   background-color: #1bd4fd;
-  color: #FFF;
+  color: #111;
 }
 .sigma-bg-darkgray {
   background-color: #01a2e4;
