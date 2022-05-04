@@ -147,19 +147,19 @@ h2 {
 }
 .sigma-bg-pink {
   background-color: #EBE;
-  color: #000;
+  color: #333;
 }
 .sigma-bg-lightblue {
   background-color: #92C4F8;
-  color: #000;
+  color: #333;
 }
 .sigma-bg-yellow {
   background-color: #A4A430;
-  color: #FFF;
+  color: #333;
 }
 .sigma-bg-green {
   background-color: #496;
-  color: #FFF;
+  color: #333;
 }
 /* Sigma BG Colors --- END */
 .sigma-copyright {
